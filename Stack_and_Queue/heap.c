@@ -113,6 +113,7 @@ void max_heap(int num[],int n)
         max_heapify(num , i ,n);
     }
 }
+/*swap the number*/
 void swap(int a, int b)
 {
      int temp = a;
